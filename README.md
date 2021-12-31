@@ -1,1 +1,3 @@
-# EPIC-ARCHERY-1-BY-GAUTHAM-BALAGURU
+# Project 23
+
+Project Solution 23
